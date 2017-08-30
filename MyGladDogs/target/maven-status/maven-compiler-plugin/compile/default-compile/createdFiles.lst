@@ -1,0 +1,6 @@
+com\gladdogs\controller\CategoryController.class
+com\gladdogs\controller\PageController.class
+com\gladdogs\controller\SupplierController.class
+com\gladdogs\controller\UserController.class
+com\gladdogs\controller\CartController.class
+com\gladdogs\controller\ProductController.class
